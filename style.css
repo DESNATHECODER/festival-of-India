@@ -1,0 +1,26 @@
+body{
+    background-color: #A4A8CC;
+
+}
+.h1{
+    color: orange;
+    text-align: center;
+}  
+text {
+    color: darkmagenta;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: end;
+    text-overflow: ellipsis;
+}
+.main{
+    color: rgb(255, 255, 255);
+    text-align:center;
+}
+.asd{
+    color: green;
+    text-align:center;
+}
